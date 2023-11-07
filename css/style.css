@@ -15,3 +15,7 @@ p{
     justify-content: space-around;
 }
 
+.card-hov:hover{
+    transform: scale(107%);
+
+}
