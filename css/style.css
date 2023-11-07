@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.container-f{
+    height: 30px;
+    background-color: #212529;
+    display: flex;
+    justify-content: space-around;
+}
